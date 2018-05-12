@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '24831'
     url: http://www.gutenberg.org/2009/agents/24831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21672#Westminster-Abbey
 gutenberg_issued: '2007-06-04'
 gutenberg_type: Text
 identifiers:
